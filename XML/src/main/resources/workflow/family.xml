@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<family>
+	<member id="001">
+		<birthday>112</birthday>
+		<height>11</height>
+		<weight>45</weight>
+		<trip id="1">
+			<locations>School</locations>
+			<times>2</times>
+			<transportaion>bus</transportaion>
+		</trip>
+	</member>
+	<member id="002">
+		<birthday>12/1</birthday>
+		<height>12</height>
+		<weight>50</weight>
+		<trip id="1">
+			<location>shop</location>
+			<times>1</times>
+			<transportaion>by foot</transportaion>
+		</trip>
+		<trip id="2">
+			<location>shop</location>
+			<times>1</times>
+			<transportaion>by foot</transportaion>
+		</trip>
+	</member>
+</family>
